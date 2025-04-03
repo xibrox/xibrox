@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xibrox
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C# and JS
+- 🌱 I’m currently learning Flutter
 
 <!---
 xibrox/xibrox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
